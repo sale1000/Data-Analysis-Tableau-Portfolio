@@ -1,4 +1,4 @@
-## Tableau Projects
+## **[Tableau Projects](https://public.tableau.com/app/profile/smritiale/vizzes)**   
 These are some of my projects that showcase my skills in Tableau. Each dashboard highlights how I use data visualization to find insights, tell stories, and make complex information easy to understand.
 ### Projects
 #### ER Visits 
